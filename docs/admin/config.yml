@@ -3,7 +3,6 @@ backend:
   repo: marvin-hinkley/docsify-demo
   branch: master
   base_url: https://githubnetlifyauth.herokuapp.com/
-  site_domain: marvin-hinkley.github.io/docsify-demo
 publish_mode: editorial_workflow
 media_folder: "media/uploads"
 collections:
