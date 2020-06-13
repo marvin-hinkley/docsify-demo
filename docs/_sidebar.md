@@ -1,2 +1,5 @@
+---
+title: sidebar
+---
 *  [Home](/?id=docsify-demo)
-*  [Test](test.md)
+*  [Flibbertygibbits](calibrating-the-flibbertygibbits.md)
