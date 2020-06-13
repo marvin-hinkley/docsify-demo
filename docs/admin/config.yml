@@ -14,3 +14,21 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: 'components'
+    label: 'Components'
+    files:
+      - name: "_sidebar"
+        label: "Documentation Sidebar"
+        file: "docs/_sidebar.md"
+        fields:
+          - {label: "Links", name: "links", widget: "markdown"}
+      - name: "_404"
+        label: "404 Page"
+        file: "docs/_404.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "_coverpage"
+        label: "Cover Page"
+        file: "docs/_coverpage.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
