@@ -4,7 +4,7 @@ backend:
   branch: master
   site_domain: confident-northcutt-6648eb.netlify.app
 publish_mode: editorial_workflow
-media_folder: "media/uploads"
+media_folder: "docs/media/uploads"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
