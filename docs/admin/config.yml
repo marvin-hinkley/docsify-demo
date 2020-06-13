@@ -2,7 +2,7 @@ backend:
   name: github
   repo: marvin-hinkley/docsify-demo
   branch: master
-  site_domain: confident-northcutt-6648eb
+  site_domain: confident-northcutt-6648eb.netlify.app
 publish_mode: editorial_workflow
 media_folder: "media/uploads"
 collections:
