@@ -5,6 +5,7 @@ backend:
   site_domain: confident-northcutt-6648eb.netlify.app
 publish_mode: editorial_workflow
 media_folder: "docs/media/uploads"
+logo_url: "https://www.aspdotnetstorefront.com/App_Themes/Skin_1/images/adnsf-logo-95-lt-bg.png"
 collections:
   - name: "doc" # Used in routes, e.g., /admin/collections/blog
     label: "Documentation Article" # Used in the UI
